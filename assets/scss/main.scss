@@ -87,7 +87,8 @@ header {
     }
     
     .col-md-7 {
-        max-width: 500px; 
+        max-width: 500px; // Limita la larghezza del paragrafo per una lettura ottimale
+        margin: 0 auto;
     }
 
     // Correzione: Media query esterna alla classe .intro o correttamente nidificata
