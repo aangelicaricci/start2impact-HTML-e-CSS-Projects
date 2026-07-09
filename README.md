@@ -47,7 +47,7 @@ Questo progetto è un sito personale pensato per presentare il mio profilo profe
 - 🧭 **Menu sticky** con navbar collassabile su mobile
 - 🎨 **Palette e tipografia coerenti** grazie a variabili SCSS centralizzate
 - 🖱️ **Micro-interazioni**: hover sulle card dei progetti, transizioni fluide, backdrop blur sull'header
-- 📬 **Form di contatto** con validazione nativa HTML e invio via EmailJS, senza esporre l'indirizzo email in chiaro
+- 📬 **Form di contatto** con validazione nativa HTML e invio via EmailJS
 - 🔍 **SEO e Open Graph**: meta tag ottimizzati per il posizionamento sui motori di ricerca e per la condivisione sui social
 - 🖼️ Layout realizzati con **CSS Grid** (es. griglia del CV, griglia dei progetti) e **Flexbox** (es. header del CV, skill list)
 
