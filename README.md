@@ -2,7 +2,7 @@
 
 Sito personale sviluppato in **HTML, SCSS e Bootstrap**, realizzato come progetto del corso **HTML e CSS** del master in AI e Agenti AI per il Business di **start2impact**.
 
-🔗 **Sito live:** [aangelicaricci.github.io/start2impact-HTML-e-CSS-Projects](https://aangelicaricci.github.io/angelicaricci.github.io/)
+🔗 **Sito live:** [aangelicaricci.github.io/angelicaricci.github.io](https://aangelicaricci.github.io/angelicaricci.github.io/)
 
 ---
 
@@ -76,7 +76,7 @@ start2impact-HTML-e-CSS-Projects/
    ```
 2. Entra nella cartella del progetto:
    ```bash
-   cd start2impact-HTML-e-CSS-Projects
+   cd angelicaricci.github.io
    ```
 3. Apri `index.html` nel browser (o usa un'estensione come *Live Server* di VS Code per una preview con hot-reload).
 
