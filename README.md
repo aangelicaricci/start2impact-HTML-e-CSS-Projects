@@ -2,7 +2,7 @@
 
 Sito personale sviluppato in **HTML, SCSS e Bootstrap**, realizzato come progetto del corso **HTML e CSS** del master in AI e Agenti AI per il Business di **start2impact**.
 
-🔗 **Sito live:** [aangelicaricci.github.io/start2impact-HTML-e-CSS-Projects](https://aangelicaricci.github.io/start2impact-HTML-e-CSS-Projects/)
+🔗 **Sito live:** [aangelicaricci.github.io/start2impact-HTML-e-CSS-Projects](https://aangelicaricci.github.io/angelicaricci.github.io/)
 
 ---
 
@@ -72,7 +72,7 @@ start2impact-HTML-e-CSS-Projects/
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/aangelicaricci/start2impact-HTML-e-CSS-Projects.git
+   git clone https://github.com/aangelicaricci/angelicaricci.github.io.git
    ```
 2. Entra nella cartella del progetto:
    ```bash
@@ -88,7 +88,7 @@ Se modifichi il file `.scss`, ricordati di ricompilarlo in CSS prima di visualiz
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/angelica-ricci-a9808a1b0/)
 - 💻 [GitHub](https://github.com/aangelicaricci)
-- 📩 Contattami tramite il [form dedicato](https://aangelicaricci.github.io/start2impact-HTML-e-CSS-Projects/contatti.html)
+- 📩 Contattami tramite il [form dedicato](https://aangelicaricci.github.io/angelicaricci.github.io/contatti.html)
 
 ---
 
